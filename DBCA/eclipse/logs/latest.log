@@ -1,0 +1,119 @@
+[03:02:03] [main/INFO]: Setting user: Player718
+[03:02:04] [Client thread/INFO]: LWJGL Version: 2.9.1
+[03:02:12] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Dragon Block C, FMLFileResourcePack:JinRyuu's Better Render Addon, FMLFileResourcePack:JinRyuu's JRMCore, FMLFileResourcePack:DBC Addon
+[03:02:13] [Sound Library Loader/INFO]: Sound engine started
+[03:02:14] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[03:02:14] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[03:02:16] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Dragon Block C, FMLFileResourcePack:JinRyuu's Better Render Addon, FMLFileResourcePack:JinRyuu's JRMCore, FMLFileResourcePack:DBC Addon
+[03:02:17] [Client thread/INFO]: Created: 512x512 textures/blocks-atlas
+[03:02:17] [Client thread/INFO]: Created: 512x512 textures/items-atlas
+[03:02:18] [Sound Library Loader/INFO]: Sound engine started
+[03:02:20] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[03:02:20] [Server thread/INFO]: Generating keypair
+[03:02:21] [Server thread/INFO]: Preparing start region for level 0
+[03:02:22] [Server thread/INFO]: Changing view distance to 9, from 10
+[03:02:22] [Server thread/INFO]: Player718[local:E:d9be62f4] logged in with entity id 178 at (158.60081409520095, 76.0, 277.0799721478824)
+[03:02:22] [Server thread/INFO]: Player718 joined the game
+[03:02:25] [Server thread/INFO]: Saving and pausing game...
+[03:02:25] [Server thread/INFO]: Saving chunks for level 'New Worldsfdgsdfg'/Overworld
+[03:02:25] [Server thread/INFO]: Saving chunks for level 'New Worldsfdgsdfg'/Nether
+[03:02:25] [Server thread/INFO]: Saving chunks for level 'New Worldsfdgsdfg'/The End
+[03:02:25] [Server thread/INFO]: Saving chunks for level 'New Worldsfdgsdfg'/Vegeta
+[03:02:25] [Server thread/INFO]: Saving chunks for level 'New Worldsfdgsdfg'/Namek
+[03:02:25] [Server thread/INFO]: Saving chunks for level 'New Worldsfdgsdfg'/Null Realm
+[03:02:25] [Server thread/INFO]: Saving chunks for level 'New Worldsfdgsdfg'/TimeChamber
+[03:02:25] [Server thread/INFO]: Saving chunks for level 'New Worldsfdgsdfg'/OtherWorld
+[03:03:29] [Server thread/INFO]: Saving and pausing game...
+[03:03:29] [Server thread/INFO]: Saving chunks for level 'New Worldsfdgsdfg'/Overworld
+[03:03:29] [Server thread/INFO]: Saving chunks for level 'New Worldsfdgsdfg'/Nether
+[03:03:29] [Server thread/INFO]: Saving chunks for level 'New Worldsfdgsdfg'/The End
+[03:03:29] [Server thread/INFO]: Saving chunks for level 'New Worldsfdgsdfg'/Vegeta
+[03:03:29] [Server thread/INFO]: Saving chunks for level 'New Worldsfdgsdfg'/Namek
+[03:03:29] [Server thread/INFO]: Saving chunks for level 'New Worldsfdgsdfg'/Null Realm
+[03:03:29] [Server thread/INFO]: Saving chunks for level 'New Worldsfdgsdfg'/TimeChamber
+[03:03:29] [Server thread/INFO]: Saving chunks for level 'New Worldsfdgsdfg'/OtherWorld
+[03:03:42] [Server thread/INFO]: Player718 has just earned the achievement [Taking Inventory]
+[03:03:42] [Client thread/INFO]: [CHAT] Player718 has just earned the achievement [Taking Inventory]
+[03:05:59] [Server thread/INFO]: [Player718: TP adding 1000000000 success for Player718]
+[03:05:59] [Client thread/INFO]: [CHAT] TP adding 1000000000 success for Player718
+[03:06:24] [Server thread/INFO]: [Player718: Set own game mode to Survival Mode]
+[03:06:24] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[03:06:39] [Server thread/INFO]: <Player718> burn out is full
+[03:06:39] [Client thread/INFO]: [CHAT] <Player718> burn out is full
+[03:06:55] [Server thread/INFO]: <Player718> so I can't use any android abbilities
+[03:06:55] [Client thread/INFO]: [CHAT] <Player718> so I can't use any android abbilities
+[03:07:03] [Server thread/INFO]: <Player718> or upgrades
+[03:07:03] [Client thread/INFO]: [CHAT] <Player718> or upgrades
+[03:07:06] [Server thread/INFO]: [Player718: Set own game mode to Creative Mode]
+[03:07:06] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[03:07:38] [Server thread/INFO]: <Player718> i put ice on it so it made the amount of the burnout be smaller
+[03:07:38] [Client thread/INFO]: [CHAT] <Player718> i put ice on it so it made the amount of the burnout be smaller
+[03:08:15] [Client thread/INFO]: [CHAT] Unknown command. Try /help for a list of commands
+[03:08:17] [Server thread/INFO]: [Player718: Set own game mode to Survival Mode]
+[03:08:17] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[03:08:25] [Client thread/INFO]: [CHAT] Unknown command. Try /help for a list of commands
+[03:08:28] [Client thread/INFO]: [CHAT] /dbcstrain, /dbcskill, /dbcspawnki, /dbcspawn
+[03:08:28] [Client thread/INFO]: [CHAT] /dbcstrain, /dbcskill, /dbcspawnki, /dbcspawn
+[03:08:29] [Client thread/INFO]: [CHAT] /dbcstrain, /dbcskill, /dbcspawnki, /dbcspawn
+[03:08:31] [Client thread/INFO]: [CHAT] Raditz, Recoome, RRMecha1, Roshi_super, Rumsshi, Roasie, Rylibeu, RedRibbonSoldier, RedRibbonSoldier2, RedRibbonSoldier3, RedRibbonSoldierB, RedRibbonSoldierB2, RedRibbonSoldierB3
+[03:08:31] [Server thread/INFO]: [Player718: Player718 spawned Raditz!]
+[03:08:31] [Client thread/INFO]: [CHAT] Player718 spawned Raditz!
+[03:08:42] [Server thread/INFO]: [Player718: Player718 spawned Beerus!]
+[03:08:42] [Client thread/INFO]: [CHAT] Player718 spawned Beerus!
+[03:08:47] [Server thread/INFO]: [Player718: Player718 spawned Beerus!]
+[03:08:47] [Client thread/INFO]: [CHAT] Player718 spawned Beerus!
+[03:09:15] [Server thread/INFO]: [Player718: Set own game mode to Creative Mode]
+[03:09:15] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[03:09:39] [Server thread/INFO]: <Player718> I was healing 5% because of moss but I should probobly set a rate for that XD
+[03:09:39] [Client thread/INFO]: [CHAT] <Player718> I was healing 5% because of moss but I should probobly set a rate for that XD
+[03:09:51] [Server thread/INFO]: [Player718: TP take away 1000001332 success Player718]
+[03:09:51] [Client thread/INFO]: [CHAT] TP take away 1000001332 success Player718
+[03:10:02] [Server thread/INFO]: <Player718> also i added 5% tp gain from namek ball
+[03:10:02] [Client thread/INFO]: [CHAT] <Player718> also i added 5% tp gain from namek ball
+[03:10:03] [Server thread/INFO]: <Player718> so
+[03:10:03] [Client thread/INFO]: [CHAT] <Player718> so
+[03:10:21] [Server thread/INFO]: [Player718: TP adding 1000 success for Player718]
+[03:10:21] [Client thread/INFO]: [CHAT] TP adding 1000 success for Player718
+[03:10:37] [Server thread/INFO]: <Player718> it would add 5% to every tp gain
+[03:10:37] [Client thread/INFO]: [CHAT] <Player718> it would add 5% to every tp gain
+[03:10:41] [Server thread/INFO]: <Player718> even command
+[03:10:41] [Client thread/INFO]: [CHAT] <Player718> even command
+[03:11:02] [Server thread/INFO]: <Player718> I can go thorugh the rest of upgrades for each part
+[03:11:02] [Client thread/INFO]: [CHAT] <Player718> I can go thorugh the rest of upgrades for each part
+[03:11:21] [Server thread/INFO]: <Player718> but It would make it longer so I don't think it's important rn
+[03:11:21] [Client thread/INFO]: [CHAT] <Player718> but It would make it longer so I don't think it's important rn
+[03:12:05] [Server thread/INFO]: <Player718> if I click the images on the player android menu it would render them
+[03:12:05] [Client thread/INFO]: [CHAT] <Player718> if I click the images on the player android menu it would render them
+[03:12:37] [Server thread/INFO]: <Player718> O yeah I also set a custom animation from blockbench json file
+[03:12:37] [Client thread/INFO]: [CHAT] <Player718> O yeah I also set a custom animation from blockbench json file
+[03:12:47] [Server thread/INFO]: <Player718> that is bounded to the left click button rn
+[03:12:47] [Client thread/INFO]: [CHAT] <Player718> that is bounded to the left click button rn
+[03:13:06] [Server thread/INFO]: <Player718> its a simple one just for testing
+[03:13:06] [Client thread/INFO]: [CHAT] <Player718> its a simple one just for testing
+[03:13:17] [Server thread/INFO]: <Player718> to see that it can read the keyframes from the file
+[03:13:17] [Client thread/INFO]: [CHAT] <Player718> to see that it can read the keyframes from the file
+[03:13:21] [Server thread/INFO]: <Player718> hmmm
+[03:13:21] [Client thread/INFO]: [CHAT] <Player718> hmmm
+[03:13:24] [Server thread/INFO]: <Player718> what else
+[03:13:24] [Client thread/INFO]: [CHAT] <Player718> what else
+[03:14:22] [Server thread/INFO]: Saving and pausing game...
+[03:14:22] [Server thread/INFO]: Saving chunks for level 'New Worldsfdgsdfg'/Overworld
+[03:14:22] [Server thread/INFO]: Saving chunks for level 'New Worldsfdgsdfg'/Nether
+[03:14:22] [Server thread/INFO]: Saving chunks for level 'New Worldsfdgsdfg'/The End
+[03:14:22] [Server thread/INFO]: Saving chunks for level 'New Worldsfdgsdfg'/Vegeta
+[03:14:22] [Server thread/INFO]: Saving chunks for level 'New Worldsfdgsdfg'/Namek
+[03:14:22] [Server thread/INFO]: Saving chunks for level 'New Worldsfdgsdfg'/Null Realm
+[03:14:22] [Server thread/INFO]: Saving chunks for level 'New Worldsfdgsdfg'/TimeChamber
+[03:14:22] [Server thread/INFO]: Saving chunks for level 'New Worldsfdgsdfg'/OtherWorld
+[03:38:05] [Client thread/INFO]: Stopping!
+[03:38:05] [Server thread/INFO]: Stopping server
+[03:38:05] [Server thread/INFO]: Saving players
+[03:38:05] [Server thread/INFO]: Saving worlds
+[03:38:05] [Server thread/INFO]: Saving chunks for level 'New Worldsfdgsdfg'/Overworld
+[03:38:05] [Server thread/INFO]: Saving chunks for level 'New Worldsfdgsdfg'/Nether
+[03:38:05] [Server thread/INFO]: Saving chunks for level 'New Worldsfdgsdfg'/The End
+[03:38:05] [Server thread/INFO]: Saving chunks for level 'New Worldsfdgsdfg'/Vegeta
+[03:38:05] [Server thread/INFO]: Saving chunks for level 'New Worldsfdgsdfg'/Namek
+[03:38:05] [Server thread/INFO]: Saving chunks for level 'New Worldsfdgsdfg'/Null Realm
+[03:38:06] [Server thread/INFO]: Saving chunks for level 'New Worldsfdgsdfg'/TimeChamber
+[03:38:06] [Server thread/INFO]: Saving chunks for level 'New Worldsfdgsdfg'/OtherWorld

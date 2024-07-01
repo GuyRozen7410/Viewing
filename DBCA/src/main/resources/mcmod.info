@@ -1,0 +1,16 @@
+[
+{
+  "modid": "dbca",
+  "name": "DBC Addon",
+  "description": "Addon to dbc.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["GuyRozen, ShonZaid, TheTermanitor"],
+  "credits": "Credits to the authors",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
